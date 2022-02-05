@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "Olethros Road 1",
+  "category": "road",
+  "author": "C. Dimitrakakis"
+ },
+ "background": {
+  "type": 4,
+  "image": "background.png",
+  "color": [ 0.640, 0.750, 0.800 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 765.82, 10.00, 0.41 ]
+}

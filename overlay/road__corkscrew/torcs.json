@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "Corkscrew",
+  "category": "road",
+  "author": "kilo, andrew"
+ },
+ "background": {
+  "type": 4,
+  "image": "background.png",
+  "color": [ 0.600, 0.600, 0.480 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 443.33, 49.33, 2.43 ]
+}

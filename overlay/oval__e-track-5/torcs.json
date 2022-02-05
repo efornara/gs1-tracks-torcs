@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "E-Track 5",
+  "category": "oval",
+  "author": "E.Espie"
+ },
+ "background": {
+  "type": 2,
+  "image": "background.png",
+  "color": [ 0.281, 0.438, 0.750 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 199.71, 14.00, 2.26 ]
+}

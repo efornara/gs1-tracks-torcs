@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "Dirt 4",
+  "category": "dirt",
+  "author": "E. Espie"
+ },
+ "background": {
+  "type": 0,
+  "image": "background.png",
+  "color": [ 0.594, 0.750, 0.969 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 579.16, 783.12, 7.77 ]
+}

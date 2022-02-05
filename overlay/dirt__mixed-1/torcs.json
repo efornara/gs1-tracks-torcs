@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "Mixed 1",
+  "category": "dirt",
+  "author": "E. Espie"
+ },
+ "background": {
+  "type": 4,
+  "image": "background.png",
+  "color": [ 0.300, 0.300, 0.300 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 85.00, 173.35, 0.44 ]
+}

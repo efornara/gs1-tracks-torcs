@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "A-Speedway",
+  "category": "oval",
+  "author": "E. Espie"
+ },
+ "background": {
+  "type": 0,
+  "image": "background.png",
+  "color": [ 0.594, 0.750, 0.969 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 349.71, 15.50, 2.20 ]
+}

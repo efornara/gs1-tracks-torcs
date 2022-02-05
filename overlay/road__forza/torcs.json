@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "Forza",
+  "category": "road",
+  "author": "A. Sumner"
+ },
+ "background": {
+  "type": 4,
+  "image": "background.png",
+  "color": [ 0.550, 0.550, 0.600 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 617.47, 1169.30, 3.53 ]
+}

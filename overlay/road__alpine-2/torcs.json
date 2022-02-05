@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "Alpine 2",
+  "category": "road",
+  "author": "D. Schellhammer"
+ },
+ "background": {
+  "type": 4,
+  "image": "background.png",
+  "color": [ 0.820, 0.850, 0.950 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 439.79, 20.50, 0.00 ]
+}

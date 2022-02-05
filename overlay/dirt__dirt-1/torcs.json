@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "Dirt 1",
+  "category": "dirt",
+  "author": "E. Espie, E. Jaeger"
+ },
+ "background": {
+  "type": 4,
+  "image": "background.png",
+  "color": [ 0.400, 0.450, 0.600 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 149.76, 182.79, 1.90 ]
+}

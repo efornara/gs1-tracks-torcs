@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "Brondehach",
+  "category": "road",
+  "author": "A.Sumner, Milestone, Eckhard M. Jaeger"
+ },
+ "background": {
+  "type": 0,
+  "image": "background.png",
+  "color": [ 0.600, 0.600, 0.650 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 369.25, 993.90, 11.60 ]
+}

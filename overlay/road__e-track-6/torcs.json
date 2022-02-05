@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "E-Track 6",
+  "category": "road",
+  "author": "E. Espie, A. Sumner"
+ },
+ "background": {
+  "type": 4,
+  "image": "background.png",
+  "color": [ 0.550, 0.550, 0.450 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 879.93, 766.95, 17.87 ]
+}

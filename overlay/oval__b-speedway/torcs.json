@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "B-Speedway",
+  "category": "oval",
+  "author": "E.Espie"
+ },
+ "background": {
+  "type": 4,
+  "image": "background.png",
+  "color": [ 0.500, 0.500, 0.550 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 646.25, 15.00, 4.02 ]
+}

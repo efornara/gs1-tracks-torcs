@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "Wheel 2",
+  "category": "road",
+  "author": "A. Sumner"
+ },
+ "background": {
+  "type": 0,
+  "image": "background.png",
+  "color": [ 0.400, 0.450, 0.550 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 1668.47, 1122.13, 10.00 ]
+}

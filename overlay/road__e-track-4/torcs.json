@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "E-Track 4",
+  "category": "road",
+  "author": "E. Espie"
+ },
+ "background": {
+  "type": 4,
+  "image": "background.png",
+  "color": [ 0.000, 0.000, 0.100 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 1064.35, 1007.41, 31.28 ]
+}

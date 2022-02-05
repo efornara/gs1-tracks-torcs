@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "Ruudskogen",
+  "category": "road",
+  "author": "A. Sumner"
+ },
+ "background": {
+  "type": 0,
+  "image": "background.png",
+  "color": [ 0.530, 0.580, 0.630 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 316.94, 412.26, 16.86 ]
+}

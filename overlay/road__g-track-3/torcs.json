@@ -1,0 +1,18 @@
+{
+ "gs1": {
+  "type": "torcs",
+  "version": 220204
+ },
+ "meta": {
+  "name": "CG track 3",
+  "category": "road",
+  "author": "CG"
+ },
+ "background": {
+  "type": 0,
+  "image": "background.png",
+  "color": [ 0.280, 0.440, 0.750 ]
+ },
+ "light_pos": "__GS1_LIGHT_POS__",
+ "start_pos": [ 429.48, 129.48, 0.00 ]
+}
