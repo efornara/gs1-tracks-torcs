@@ -4,6 +4,7 @@
   "version": 220204
  },
  "meta": {
+  "id": "c-speedway",
   "name": "C-Speedway",
   "category": "oval",
   "author": "E.Espie"

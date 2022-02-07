@@ -4,6 +4,7 @@
   "version": 220204
  },
  "meta": {
+  "id": "eroad",
   "name": "E-Road",
   "category": "road",
   "author": "E. Espie, B. Wymann"
